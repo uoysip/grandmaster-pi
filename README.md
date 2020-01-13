@@ -2,7 +2,9 @@
 
 Grandmaster Pi is a chess bot that uses computer vision and machine learning to serve as a chess opponent on a physical chess board. This project was developed out of interest of matches played between real grandmasters and the AlphaZero engine.
 
-<div style="text-align:center"><img src="https://i.imgur.com/B20pj8x.gif" /></div>
+<p align="center">
+  <img src="https://i.imgur.com/B20pj8x.gif" alt="Before and After a real chess board being detected"/>
+</p>
 
 ## Installation
 
