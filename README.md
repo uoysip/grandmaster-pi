@@ -24,3 +24,7 @@ To test the chess board detection algorithm on a image, this can be done with th
 ```./DisplayImage ../images/chessboard1.jpg```
 
 To run the game, use the same ```./DisplayImage [URL]``` command but instead of an image, supply a URL for the IP camera as an argument.
+
+## License 
+
+This project is released under the MIT license, see the LICENSE file for details.
